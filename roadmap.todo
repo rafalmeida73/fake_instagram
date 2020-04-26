@@ -1,0 +1,23 @@
+<<<<<<< Updated upstream
+=======
+A - Piloto1 - Setup do projeto:
+    ☐ Fazer fork do projeto
+    ☐ Clonar projeto para local
+    ☐ Rodar script de criação do banco de dados
+    ☐ Instalar 
+        - sequelize
+        - sequelize-cli
+        - mysql2
+        - dotenv
+    ☐ Configurar e testar conexão com o banco
+    ☐ Atualizar repositório remoto
+    ☐ Adicionar outros membros como colaboradores
+
+B - Comum - Setup do BD:
+    ☐ Clonar repositório
+    ☐ Ajustar conexão a banco de dados
+
+C - Piloto 2 - Login:
+    ☐ Criar model User
+    ☐ 
+>>>>>>> Stashed changes
